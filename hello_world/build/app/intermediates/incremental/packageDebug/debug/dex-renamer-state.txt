@@ -1,0 +1,4 @@
+#Wed Nov 28 14:52:41 CST 2018
+base.0=/Users/vpjacob/Desktop/FlutterStudy/hello_world/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
